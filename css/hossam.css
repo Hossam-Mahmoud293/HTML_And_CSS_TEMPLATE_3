@@ -108,14 +108,14 @@ ul {
     background-repeat: no-repeat;
     position: absolute;
 }
-.dots-up {
+/* .dots-up {
     top: 200px;
     right: 0;
 }
 .dots-down {
     bottom: 200px;
     left: 0;
-}
+} */
 /* End Global Rules */
 /* Start Header */
 .header {
